@@ -70,7 +70,7 @@
 
 #### lineplot:
 
-__data preparation due to datetime:__
+___data preparation due to datetime:___
 
 * data['date'] = pd.to_datetime(data['date'], format = '%Y/%m/%d')
 * data['year'] = data.date.dt.year
@@ -79,7 +79,8 @@ __data preparation due to datetime:__
 
 df_weather_groupdate = data.groupby('date_new').mean().reset_index().sort_values(['year', 'month'])
 
-__plot:__
+___plot:___
+
 plt.figure(figsize=(12, 6), dpi=80)
 
 plt.plot(df_weather_groupdate['date_new'], df_weather_groupdate['temp_max'], label = 'Max Temperature', color = 'red')
