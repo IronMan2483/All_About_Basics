@@ -22,6 +22,8 @@
   import seaborn as sns
 
   import plotly.express as px
+  
+  import altair as alt
 
 ---
 
