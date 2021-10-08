@@ -64,8 +64,6 @@
   _--> an empty bracket behind plt.legend locates the legend in the upper left corner
 
 
-<br />
-
 ---
 
 #### lineplot:
@@ -147,7 +145,6 @@ _--> the first label is blue by default if you don't use color='red'_
 
   _--> gender_top10_ is a created subset of the original dataset and the name of it | also possible to name it as the dataset name without .csv_
 
-<br />
 
 ---
 
@@ -174,8 +171,7 @@ __OR as another 1-Liner__
   sns.countplot(x='_category_',data=_dataset_name_, palette='hls');
   
   _--> to check if it also works with categories not an int (here 1 or 0)
-
-<br />
+  
 
 ---
 
@@ -223,7 +219,6 @@ __OR__
 
   sns.heatmap(cfm, cmap='YlGnBu', annot=True, fmt='d', linewidths=.5);
 
-<br />
 
 ---
 
@@ -231,7 +226,6 @@ __OR__
 
   sns.histplot(df["_column_name/feature_"])
 
-<br />
 
 ---
 
@@ -259,7 +253,6 @@ plt.show();
 
 _--> df_weather_groupdate is the name of the dataset | date_new, temp_max and temp_min are the features/column names_
 
-<br />
 
 ---
 
@@ -273,7 +266,6 @@ _--> df_weather_groupdate is the name of the dataset | date_new, temp_max and te
 
   sns.scatterplot(x='_feature_one_', y='_feature_two_', data=_dataset_name_)
 
-<br />
 
 ---
 
@@ -289,7 +281,6 @@ px.line(df_weather_groupdate, x=df_weather_groupdate['date_new'], y= df_weather_
 
 _--> df_weather_groupdate is the name of the dataset | date_new and temp_max are the features/column names_
 
-<br />
 
 ---
 
