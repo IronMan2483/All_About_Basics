@@ -6,10 +6,11 @@
 4. Plotly
 5. Maps
 
+---
 
 ---
 
-## __Import packages__ 
+## __1. Import packages__ 
 
 import numpy as np
 
@@ -24,7 +25,9 @@ import plotly.express as px
 
 ---
 
-## __Matplotlib__
+---
+
+## __2. Matplotlib__
 
 #### barplot:
 plt.figure(figsize=(16,10))
@@ -55,13 +58,17 @@ plt.show()
 
 <br />
 
+---
+
 #### scatterplot:
 
 plt.scatter(x, y, c=y, cmap='rainbow');
 
 ---
 
-## __Seaborn__
+---
+
+## __3. Seaborn__
 
 #### barplots:
 
@@ -87,6 +94,10 @@ plt.xticks(rotation = 45)
 sns.barplot(x='_column_name1_', y='_Count_feature/column_name2_', hue='_column_name_(e.g. gender)', data=gender_top10);
 _--> gender_top10_ is a created subset of the original dataset and the name of it | also possible to name it as the dataset name without .csv_
 
+<br />
+
+---
+
 #### countplot:
 
 plt.title('_column/feature name Count_')
@@ -95,11 +106,16 @@ sns.countplot(x=_dataset_name.feature/column_name_);
 
 <br />
 
+---
+
 #### heatmaps:
+
+* heatmap to show correlation instead of a pairplot
 
 sns.heatmap(df.corr())
 
 _--> df is the dataset name and corr() shows the correlation between the different features (columns)_
+_--> to also see the values __add annot=True);__ 
 
 <br />
 
@@ -121,16 +137,21 @@ sns.heatmap(cfm, cmap='YlGnBu', annot=True, fmt='d', linewidths=.5);
 
 <br />
 
+---
+
 #### histogram:
 
 sns.histplot(df["_column_name/feature_"])
 
 <br />
 
+---
+
 #### pairplot:
 
 sns.pairplot(_dataset_name_, hue="_column_name/feature_", height=3);
 
+---
 
 #### scatterplot:
 
