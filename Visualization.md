@@ -260,12 +260,15 @@ _--> df_weather_groupdate is the name of the dataset | date_new, temp_max and te
 
 #### pairplot:
 
+  sns.pairplot(dataset_name);
+
   sns.pairplot(_dataset_name_, hue="_column_name/feature_", height=3);
+ 
 
 ---
 
 #### scatterplot:
-
+  
   sns.scatterplot(x='_feature_one_', y='_feature_two_', data=_dataset_name_)
 
 
