@@ -4,7 +4,7 @@ Get the color palette in the Matplotlib library:
 
     named_colors.py 
 
-![colours](images/col)
+![colours](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/colour_palettes.png)
 
 You can select a lot of colors by one letter:
 
@@ -45,6 +45,9 @@ Out: {'aliceblue': '#F0F8FF', 'antiquewhite': '#FAEBD7', 'aqua': '#00FFFF',
 ``````````
 
 * Every color has again a RGB value but in this case hexadecimal coded: three 2-digit hexadecimal numbers with values between 0 and 255.
+
+![Diverging, miscellaneous and qualitative colormaps](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/colormaps.png)
+![Sequential Colormaps](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/sequential_colormaps.png)
 
 ---
 ---
