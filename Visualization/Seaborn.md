@@ -84,7 +84,7 @@ sns.set_theme(style="ticks", color_codes=True)
 
 ![catplot](images/sns_catplot.png)
 ````
-  sns.catplot(x="day", y="total_bill", data=tips)
+  sns.catplot(x="feature/column_name1", y="feature/column_name1", data=dataset_name)
 ````
 ---
 
