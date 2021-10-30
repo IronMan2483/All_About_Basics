@@ -80,6 +80,10 @@ sns.set_theme(style="ticks", color_codes=True)
 ````
 ---
 
+#### catplot:
+
+![catplot](images/sns_catplot.png)
+
 #### countplot:
 ````
   plt.title('_column/feature name Count_')
