@@ -1,6 +1,6 @@
 # __Commands and Import Packages__
 
-![Power Panda](link)
+![Power Panda](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/Power_Panda.png)
 
 ## __commands for your terminal__
 
