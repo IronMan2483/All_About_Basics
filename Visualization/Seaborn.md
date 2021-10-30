@@ -1,6 +1,6 @@
 # __Seaborn__
 
-![seaborn](https://github.com/IronMan2483/All_About_Basics/tree/main/Images/seaborn.png)
+![seaborn](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/seaborn.png)
 
 [Tutorial on DataCamp](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn?tap_a=5644-dce66f&tap_s=93618-a68c98&utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48303643819&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=255768253872&utm_targetid=dsa-473406587475&utm_loc_interest_ms=&utm_loc_physical_ms=9060673&gclid=CjwKCAjw2vOLBhBPEiwAjEeK9rCG5ejER3Xvj1QXVcKUsdValR13XP6WZXPg5R6NhAhg2tO2fBICYBoCo7IQAvD_BwE)
 
@@ -82,7 +82,7 @@ sns.set_theme(style="ticks", color_codes=True)
 
 #### catplot:
 
-![catplot](images/sns_catplot.png)
+![catplot](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/sns.catplot.jpg)
 ````
   sns.catplot(x="feature/column_name1", y="feature/column_name1", data=dataset_name)
 ````
