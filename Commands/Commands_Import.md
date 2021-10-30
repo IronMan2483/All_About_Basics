@@ -50,7 +50,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ````
 
-if Plotly should be used:
+__if Plotly should be used:__
 
 ````
 brew update
@@ -69,9 +69,9 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.
 
 ## __commands for your VSC or JN__
 
-````
-Import libraries and plots in .ipynb
+__Import libraries and plots in .ipynb__
 
+````
 import pandas as pd
 
 import numpy as np
