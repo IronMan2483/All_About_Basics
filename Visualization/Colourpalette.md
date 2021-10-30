@@ -143,9 +143,9 @@ Out: {'aliceblue': '#F0F8FF', 'antiquewhite': '#FAEBD7', 'aqua': '#00FFFF',
     ' ': 'nothing', '': 'nothing'}
     ```````````
 
-![filled marker](link)
+![filled marker](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/matplotlib_filled_marker.png)
 
-![unfilled marker](link)
+![unfilled marker](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/matplotlib_unfilled_marker.png)
 
 ---
 ---
