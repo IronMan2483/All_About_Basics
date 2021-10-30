@@ -1,5 +1,7 @@
 # __Commands and Import Packages__
 
+![Power Panda](link)
+
 ## __commands for your terminal__
 
 ### __Pandas__
