@@ -82,10 +82,11 @@ sns.set_theme(style="ticks", color_codes=True)
 
 #### catplot:
 
-![catplot](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/sns.catplot.jpg)
 ````
   sns.catplot(x="feature/column_name1", y="feature/column_name1", data=dataset_name)
 ````
+![catplot](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/sns.catplot.jpg)
+
 ---
 
 #### countplot:
