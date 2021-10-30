@@ -8,3 +8,6 @@ I collected commands, images, code snippets
 * In the [model folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Models) are the code snippets/cheatsheets for the different models.
 * I collected funny panda pictures from realpython.com in the [Images folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Images).
 * In my [Links folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Links) are good links I wanted to save.
+
+![Panda mit Schlange](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/Panda_Python.png)
+##### source: https://www.papiton.de/wild-friends-panda-und-schlange.htm
