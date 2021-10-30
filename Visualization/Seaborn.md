@@ -83,6 +83,10 @@ sns.set_theme(style="ticks", color_codes=True)
 #### catplot:
 
 ![catplot](images/sns_catplot.png)
+````
+  sns.catplot(x="day", y="total_bill", data=tips)
+
+---
 
 #### countplot:
 ````
