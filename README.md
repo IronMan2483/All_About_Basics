@@ -7,7 +7,7 @@ I collected commands, images, code snippets
 * In the [visualization folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Visualization) are code snippets for Matplotlib, Seaborn and Plotly for the different types of plots.
 * In the [model folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Models) are the code snippets/cheatsheets for the different models.
 * I collected funny panda pictures from realpython.com in the [Images folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Images).
-* In my [Links folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Links) are good links I wanted to save.
+* In my [Links folder](https://github.com/IronMan2483/All_About_Basics/blob/main/Links/Link_collection.md) are good links I wanted to save.
 
 ![Panda mit Schlange](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/Panda_Python.png)
 ##### source: https://www.papiton.de/wild-friends-panda-und-schlange.htm
