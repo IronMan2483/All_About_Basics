@@ -108,6 +108,7 @@ always a good idea, here you can see if you modified or created file, different 
 * Go to the Pull Request
 * Go to files changed and click on merge (take care that it is the right "main branch" in which your branch will merge in!!!)
 * __OMG! You have a merge conflict you need to resolve! Don't cry!!!__
+
 * Click on the file with conflict and click to open it in the web browser
 * You will see the file with the conflict and click on the conflicts (you should see text in yellow brackets "main" version and "new branch" version)
 * You need to delete the "old version" including the lines with the "main" version and "new branch" version
