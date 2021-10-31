@@ -224,4 +224,3 @@ Out: {'aliceblue': '#F0F8FF', 'antiquewhite': '#FAEBD7', 'aqua': '#00FFFF',
 
     `
     plt.savefig('example.pdf')
-    `
