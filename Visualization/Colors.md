@@ -6,6 +6,8 @@ Get the color palette in the Matplotlib library:
 
 ![colours](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/colour_palettes.png)
 
+Get the colors in Seaborn [here](https://seaborn.pydata.org/tutorial/color_palettes.html)
+
 You can select a lot of colors by one letter:
 
 `````````
