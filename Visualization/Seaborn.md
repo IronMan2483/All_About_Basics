@@ -163,6 +163,13 @@ __OR__
 
 ---
 
+#### [jointplot:](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
+``
+  sns.jointplot(data=datasetname, x = "datasetname['column1']", y = "datasetname['column2']", hue="datasetname['column3']")
+``
+
+---
+
 #### lineplot:
 
 ````

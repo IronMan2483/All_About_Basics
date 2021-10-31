@@ -6,6 +6,10 @@ I collected commands, images, code snippets
 * Commands for the terminal and often used install/import packages are [here](https://github.com/IronMan2483/All_About_Basics/blob/main/Commands/Commands_Import.md).
 * In the [visualization folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Visualization) are code snippets for Matplotlib, Seaborn, Plotly and 3D plots for the different types of plots. I also added [color maps](https://github.com/IronMan2483/All_About_Basics/blob/main/Visualization/Colors.md) and [plot formatting](https://github.com/IronMan2483/All_About_Basics/blob/main/Visualization/Plot_formating.md).
 * In the [model folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Models) are the code snippets/cheatsheets for the different models.
+* Besides the model, [feature engineering](https://github.com/IronMan2483/All_About_Basics/tree/main/Feature%20Engineering) are important as well.
+
+__!!! GridSearch is included in feature engineering but in models as well !!!__
+
 * I collected funny panda pictures from realpython.com in the [Images folder](https://github.com/IronMan2483/All_About_Basics/tree/main/Images).
 * In my [Links folder](https://github.com/IronMan2483/All_About_Basics/blob/main/Links/Link_collection.md) are good links I wanted to save.
 
