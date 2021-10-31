@@ -103,9 +103,9 @@ If you have 2 different lines in a plot, you can select the color of the line an
     ' ': 'nothing', '': 'nothing'}
 
 
-filled marker
+![filled marker](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/matplotlib_filled_marker.png)
 
-unfilled marker
+![unfilled marker](https://github.com/IronMan2483/All_About_Basics/blob/main/Images/matplotlib_unfilled_marker.png)
 
 ---
 ---
