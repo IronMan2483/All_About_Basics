@@ -18,9 +18,9 @@ python -m pip install pandas
 
 ### __Error Messages in SVC or JP__
 
-If the module pd and others was not found , try this, close SVC or JP before and after installation process is completed re-open SVC or JP.
+If the module pd and others was not found, try this, close SVC or JP before and after installation process is completed re-open SVC or JP.
 
-`````
+```
 ! pip3 install pandas
 
 pip install matplotlib
@@ -35,7 +35,7 @@ pip install scikit-learn
 #if needed
 pip install tensorflow 
 
-````
+```
 
 ![Ryan Why](https://miro.medium.com/max/1162/0*VJyUjGm-bJGlkh-R.gif)
 
