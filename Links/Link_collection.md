@@ -30,6 +30,12 @@
 
 # __DATA SCIENCE WIKI__
 
+# __
+
+* [Chris Albon Code Snippets and Tutorials](https://chrisalbon.com)
+
+---
+
 ## __Geeks for Geeks__
 
 * [my user page](https://auth.geeksforgeeks.org/user/katrinmulinski2483)
