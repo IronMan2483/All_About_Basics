@@ -20,7 +20,7 @@ python -m pip install pandas
 
 If the module pd and others was not found , try this, close SVC or JP before and after installation process is completed re-open SVC or JP.
 
-````
+`````
 ! pip3 install pandas
 
 pip install matplotlib
@@ -30,7 +30,14 @@ python -m pip install seaborn
 pip install --upgrade pip pip install jupyter
 
 pip install scikit-learn
+
+
+#if needed
+pip install tensorflow 
+
 ````
+
+![Ryan Why](https://miro.medium.com/max/1162/0*VJyUjGm-bJGlkh-R.gif)
 
 ---
 
