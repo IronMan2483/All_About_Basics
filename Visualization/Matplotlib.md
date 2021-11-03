@@ -3,6 +3,8 @@
 #### barplot:
 
   plt.figure(figsize=(16,10))
+  
+  country.max().sort_values(by="points",ascending=False)["points"].plot.bar()
 
   plt.xticks(rotation = 45)
 
