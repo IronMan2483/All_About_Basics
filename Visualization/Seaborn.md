@@ -188,6 +188,17 @@ __OR__
 
   sns.heatmap(cfm, cmap='YlGnBu', annot=True, fmt='d', linewidths=.5);
 ````
+
+<br />
+
+* heatmap with lines between and values in the boxes:
+
+````
+  plt.figure(figsize=(20,10))
+  sns.heatmap(df_user.corr(), linewidth=0.3, annot=True)
+  plt.yticks(rotation=0)
+  
+  
 ---
 
 #### histogram:
