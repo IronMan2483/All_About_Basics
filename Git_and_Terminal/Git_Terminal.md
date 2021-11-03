@@ -111,8 +111,8 @@ always a good idea, here you can see if you modified or created file, different 
 
 * Click on the file with conflict and click to open it in the web browser
 * You will see the file with the conflict and click on the conflicts (you should see text in yellow brackets "main" version and "new branch" version)
-* You need to delete the "old version" including the lines with the "main" version and "new branch" version
-* You should be able to click now on the button "resolve problem"
+* You need to delete the lines you don't want to keep, including the lines with comment the "main" version and "new branch" version
+* You should be able to click now on the button "resolve conflict"
 * You are now able to merge __YEAH!!!__
 * You will see now the green button with "squash and merge" 
 * Click 2 times on the button
