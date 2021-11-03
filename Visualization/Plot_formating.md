@@ -138,6 +138,12 @@ OR
 ### __Define the axis (start and end of the axis) - here start at 4 instead of 0 and ends at 6__
     
     plt.xlim(4, 6)
+    
+<br />
+
+### __Rename axis ticks if you have only e.g. 1 and 0__
+
+    ax.set_xticklabels(['not inquired', 'inquired'])
 
 ---
 ---
@@ -161,6 +167,12 @@ OR
 ### __If you want to add the location of the legend use loc in round bracket__
 
     plt.legend(loc='upper right')
+
+<br />
+
+### __If the legend should have different labels (e.g. when you have only 1 and 0)__
+
+    plt.legend(loc="upper right", labels=['user without an account','user with an account'], fontsize=12)
 
 <br />
 
