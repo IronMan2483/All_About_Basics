@@ -82,6 +82,8 @@ plt.show()
 
 ## __Wordcloud in an image - example with an US flag__
 
+source: https://www.datacamp.com/community/tutorials/wordcloud-python
+
 1. Generate a word cloud image
 ```
 mask = np.array(Image.open("img/us.png"))
