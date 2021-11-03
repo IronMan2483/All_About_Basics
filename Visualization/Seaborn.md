@@ -39,6 +39,40 @@ sns.set_theme(style="ticks", color_codes=True)
 ---
 ---
 
+## __EXAMPLE__
+
+  plt.figure(figsize=(20,10))
+  * first value is the length, second is the height
+
+  sns.countplot(data=df_user, x='has_inquired', hue='has_an_account', palette="YlGnBu")
+
+  plt.xticks(rotation=0)
+  * x= column1, hue=column2
+
+
+  ax.set_xticklabels(['not inquired', 'inquired'])
+  * labels come from 1 and 0 from column1
+
+  plt.ticklabel_format(style='plain',axis='y',useOffset=True)
+  
+  plt.xticks(fontsize=12)
+  
+  plt.xlabel("has inquired",fontsize=20)
+  
+  plt.yticks(fontsize=12)
+  
+  plt.ylabel("count",fontsize=20)
+  
+  plt.title("How many inquiries - by user account", fontsize=20)
+  
+  plt.legend(loc="upper right", labels=['user without an account','user with an account'], fontsize=12)
+  * labels if you only have 1 and 0
+  
+  plt.show()
+  * instead of plt.show() you can also use plt.savefig('filename.png'), the plot will also be visible and saved in your folder
+---
+---
+
 ## __CODE SNIPPETS__
 
 #### barplots:
