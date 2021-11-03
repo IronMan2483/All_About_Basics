@@ -193,11 +193,13 @@ __OR__
 
 * heatmap with lines between and values in the boxes:
 
-````
+`````
   plt.figure(figsize=(20,10))
-  sns.heatmap(df_user.corr(), linewidth=0.3, annot=True)
-  plt.yticks(rotation=0)
   
+  sns.heatmap(df_user.corr(), linewidth=0.3, annot=True)
+  
+  plt.yticks(rotation=0)
+```  
   
 ---
 
