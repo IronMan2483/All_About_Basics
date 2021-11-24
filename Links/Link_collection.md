@@ -30,8 +30,6 @@
 
 # __DATA SCIENCE WIKI__
 
-# __
-
 * [Chris Albon Code Snippets and Tutorials](https://chrisalbon.com)
 
 ---
