@@ -37,8 +37,6 @@ In the following example, a function of two variables is displayed three-dimensi
 * __ax.set_zlim(-0.8, 0.5)__
     * z axis starts at -0.8 and ends at 0.5
 
-We represent the projection into the x-y plane with the help of the contourf function, as we have already discussed, but in this example we do not represent contour lines. When used in a three-dimensional representation, we still need to specify the orientation of the project plane using the normal direction zdir and the position using offset. By choosing zdir appropriately, it would also be possible to make projections into the x-z and y-z planes.
+Represent the projection into the x-y plane with the help of the contourf function. When used in a three-dimensional representation, you still need to specify the orientation of the project plane using the normal direction zdir and the position using offset. By choosing zdir appropriately, it would also be possible to make projections into the x-z and y-z planes.
 
-Finally, in our example, we set the axis label and extend the range of values of the z-axis to be able to display the projection. Finally, we plot the figure, which here, unlike most of the examples in this chapter, was created in an object-oriented manner.
-
-Translated with www.DeepL.com/Translator (free version)
+Finally, in the example, you set the axis label and extend the range of values of the z-axis to be able to display the projection. Finally, plot the figure, which was created in an object-oriented manner.
